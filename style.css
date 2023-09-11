@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(155, 155, 235);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    
+}
+.card-img-top{
+    border-radius: 10%;
+}
